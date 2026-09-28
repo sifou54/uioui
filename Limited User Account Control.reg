@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00                                                                                                                                                                                                                    Made By LitRanger
+
+Made By LitRanger
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"EnableLUA"=dword:00000000
